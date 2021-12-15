@@ -3,7 +3,7 @@
 
 #define DIFICULDADE_ 10000
 
-const int tempo_=4000;
+const int tempo_=2000;
 Game::Game(){
 
     
